@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# ERIC VONA, MPH
+# HEADER 1
 eric.vona@gmail.com  
 (716)-225-2380
 
